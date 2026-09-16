@@ -1,4 +1,4 @@
-## Surti2 :)
+## Surti2 
 Creación pagina de servicios de venta de producto: Comida, sanitario, etc..
 
 ### Información:
