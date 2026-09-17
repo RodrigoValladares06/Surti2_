@@ -1,7 +1,7 @@
 ## Surti2 
 Creación pagina de servicios de venta de producto: Comida, sanitario, etc..
 
-### Información:
+### Información mas detallada:
 #### En esta parte miraras el proceso en como se creo la siguiente pagina web:
 
 - Todo lo necesario para un hogar
